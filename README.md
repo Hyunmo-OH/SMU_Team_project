@@ -11,5 +11,5 @@
 - 영화진흥위원회 ( 누적 관객수, 매출)
 
 발표 자료 웹 접근:
-<a herf:https://www.slideshare.net/ssuser235af0/2018-2-3> 발표 자료 </a>
+<a href=https://www.slideshare.net/ssuser235af0/2018-2-3> 발표 자료 </a>
 
